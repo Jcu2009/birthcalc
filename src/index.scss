@@ -1,0 +1,20 @@
+.heading{
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+}
+
+.date{
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+}
+
+.grid{
+     display: flex;
+     flex-direction: column;
+     justify-content: flex-start;
+}
+
+.element1{
+    margin-right: 47px;
+    gap: 3rem;
+}

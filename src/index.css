@@ -1,0 +1,63 @@
+.heading{
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+}
+
+.date{
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+}
+
+.grid{
+     display: flex;
+     flex-direction: column;
+     justify-content: flex-start;
+}
+
+.element1{
+    margin-right: 175px;
+    margin-bottom: 5px;
+    font-weight: 650;
+    word-spacing: -3px;
+}
+
+.react-datepicker__input-container input {
+  width: 320px;
+  font-size: 15px;          /* bigger text */
+  padding: 6px 10px;       /* bigger box */
+  border: 3px solid black;  /* thicker outline */
+  border-radius: 5px;      /* rounded corners */
+  font-family: 'Comic Neue', cursive; /* different font */
+}
+
+.react-datepicker__calendar-icon {
+  width: 16px;
+  height: 16px;
+  opacity: 0.7;
+  margin-left: 300px;
+  
+}
+
+
+.button{
+    background-color: #525252; 
+    font-size: 18px;
+    font-family: 'Comic Neue', cursive;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 27.5%;
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.button:hover{
+    opacity: 1
+}
+
+.ans{
+    font-weight: 600;
+    word-spacing: -3px;
+}
