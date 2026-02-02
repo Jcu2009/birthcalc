@@ -1,4 +1,3 @@
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { Heading } from './Component/Heading';
 import { Main } from './Component/Main';
